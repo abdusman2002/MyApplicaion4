@@ -1,7 +1,7 @@
 package com.example.myapplication;
 
 public class helperClass {
-    public String getName(){
+    public String testFun(){
         return  "abdullah";
     }
 }
